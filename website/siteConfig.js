@@ -24,7 +24,7 @@ const siteConfig = {
   title: 'Learning and Support Docs', // Title for your website.
   tagline: '5th Kind Learning and Support Docs',
   url: 'https://jonsanjuan.github.io', // Your website URL
-  baseUrl: '/', // Base URL for your project */
+  baseUrl: '/5kdocs/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
